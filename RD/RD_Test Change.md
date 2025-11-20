@@ -12,5 +12,4 @@ XXXXX
 YYYYYYY
 ZZZZZZZZ
 空気を清める
-日照り続きに雨
-晴れの日は気をゆるすな
+
